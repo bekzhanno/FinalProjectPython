@@ -33,8 +33,10 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'
 ## Examples
 Outputs will be like these:
 ```Firstly, we create account and sing in with this account. After, we can see search page. Here, for example we searched bitcoin.
-![alt text](https://user-images.githubusercontent.com/75968886/143144729-5723028d-ce0c-415f-8c6c-f76f4372e747.png)
-![alt text](https://user-images.githubusercontent.com/75968886/143144803-9560c465-4c90-4f48-a83f-421258c5f20d.png)
+![alt text](https://user-images.githubusercontent.com/75968886/143173900-9450cbe1-0571-4465-a097-d690186ea4b7.png)
+
+![alt text](https://user-images.githubusercontent.com/75968886/143173977-5229050c-d381-49cf-86ae-1bc1914ec539.png)
+
 
 ```
 
