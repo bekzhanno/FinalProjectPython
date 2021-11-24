@@ -1,6 +1,5 @@
 # Final_project_python
 Final project
-# python_assignment_4
 ## Title:
 Final project.Summary from CoinGecko
 ## Installation
