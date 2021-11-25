@@ -1,6 +1,6 @@
 # FinalProjectPython
 ## Title:
-Final project.Summary from CoinGecko
+Summary from CoinGecko
 ## Installation
 PyPI
 ```bash 
