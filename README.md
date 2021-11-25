@@ -1,9 +1,7 @@
-# Final_project_python
-Final project
+# FinalProjectPython
 ## Title:
 Final project.Summary from CoinGecko
 ## Installation
-
 PyPI
 ```bash 
 pip install flask
